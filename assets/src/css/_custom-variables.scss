@@ -1,0 +1,35 @@
+/* CSS Document */
+/* CSS Document */
+
+$acs-blue: #004261;
+$acs-light-blue: #00CCFE;
+$acs-light-blue2: #E8F6FC;
+$acs-gray: #888888;
+$acs-gray2: #E1E1E1;
+$gray-100: #f8f9fa;
+
+
+$primary: $acs-blue;
+$secondary: $acs-light-blue;
+$light: $acs-gray;
+$light-2: $gray-100;
+
+$theme-colors: (
+    "light-2": $gray-100
+);
+
+$font-size-base: 1rem;
+
+$h1-font-size: 24/16 * $font-size-base;
+$h2-font-size: $h1-font-size;
+$h3-font-size: $h1-font-size;
+
+
+$font-family-sans-serif: 'Nexa', sans-serif;
+
+$headings-font-weight: bold;
+
+$table-accent-bg: rgba( $secondary, .25);
+
+//size of quote bubbles
+$quote-bubble-arrow-size: 75px;

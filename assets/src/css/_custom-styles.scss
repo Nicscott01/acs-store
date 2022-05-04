@@ -1,0 +1,157 @@
+/* CSS Document */
+
+body > header {
+    overflow-x: hidden;
+}
+
+.navbar-brand {
+    max-width: 364px;
+    width: 100%;
+    height: auto;
+
+    > svg {
+        max-width: 100%;
+    }
+}
+
+.nav-item,
+h1, .h1,
+h2, .h2,
+h3, .h3 {
+    text-transform: uppercase;
+}
+
+.bg-light {
+    background-color: rgba( $light, .25 ) !important;
+}
+
+.border-bottom {
+    border-width: 5px !important;
+}
+
+
+h1, .h1 { 
+    position: relative;
+    
+    &:after {
+        content: "";
+        position: relative;
+        width: 75px;
+        margin-left:auto;
+        margin-right:auto;
+        bottom:0;
+        height: 2px;
+        background-color: $secondary;
+        display: block;
+        margin-top: .5rem;
+        margin-bottom: 2rem;
+    }
+}
+
+
+.managers-container {
+    margin-right: $grid-gutter-width * -1;
+}
+
+.manager {
+    margin-bottom: $spacer*2;
+    display: flex;
+    
+    @include media-breakpoint-down( md ) {
+            >.row {
+                background-color: $acs-gray2;
+            }
+    }
+    
+    
+    @include media-breakpoint-up(lg) {
+        &:nth-child(1),
+        &:nth-child(4n+4), 
+        &:nth-child(5n+5) {
+
+            >.row {
+                background-color: $acs-gray2;
+            }
+
+        }
+    }
+    
+    > .row {
+        margin-right:0;
+        
+    }
+    
+    
+    .name {
+        font-size: 21/16 * $font-size-base;
+        text-transform: uppercase;
+    }    
+
+    .title {
+        font-size: $font-size-base;
+        text-transform: uppercase;
+        color: $secondary;
+        
+    }
+}
+
+
+.headshot {
+    
+    img {
+        min-width: 100%;
+        min-height: 100%;
+        height: auto;
+        width: auto;
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: cover;
+    }
+}
+
+
+
+.list-carat {
+    
+    li {
+        position: relative;
+        display: flex;
+        align-items: center;
+        margin-bottom: $spacer/2;
+        padding-left: $spacer/2;
+        
+        &:before {
+            background-image: url("data:image/svg+xml,%3Csvg aria-hidden='true' focusable='false' data-prefix='fas' data-icon='angle-right' class='svg-inline--fa fa-angle-right fa-w-8' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 512'%3E%3Cpath fill='#{url-friendly-color($secondary)}' d='M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z'%3E%3C/path%3E%3C/svg%3E");   
+            content: "";
+            height: 20.5px;
+            width: 11px;
+            display: inline-block;
+            position: relative;
+            margin-right: $spacer/2;
+        }
+    }
+
+    
+}
+
+
+.testimonial {
+    background-color: $acs-light-blue2;
+    font-family: $font-family-sans-serif;
+    text-transform: none;
+    padding: 2em;
+    position: relative;
+    margin-bottom: $quote-bubble-arrow-size + $grid-gutter-width/2;
+    letter-spacing: 1px;
+
+    &:after {
+        content:"";
+        position: absolute;
+        right: 10%;
+        bottom: $quote-bubble-arrow-size * -1;
+        border: $quote-bubble-arrow-size/2 solid transparent;
+        border-right: $quote-bubble-arrow-size/2 solid $acs-light-blue2;
+        border-top: $quote-bubble-arrow-size/2 solid $acs-light-blue2;
+    }
+}
+
