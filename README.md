@@ -4,6 +4,11 @@ ACS Store Website found at https://store.acsouth.com/
 
 ## Changelog
 
+### 6/16/2022
+- Add 2 new regional managers
+    - Daniel Wangerin
+    - David Perry
+
 ### 5/4/2022 (May the Fourth Be With You)
 - Created git repo for easier versioning/sharing
 - Brought codebase up to date with what's on the live site (we hope we got everything)
