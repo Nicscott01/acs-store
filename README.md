@@ -4,6 +4,9 @@ ACS Store Website found at https://store.acsouth.com/
 
 ## Changelog
 
+### 8/22/2022
+- Remove regional manager DP
+
 ### 6/16/2022
 - Add 2 new regional managers
     - Daniel Wangerin
