@@ -4,6 +4,10 @@ ACS Store Website found at https://store.acsouth.com/
 
 ## Changelog
 
+### 9/21/2022
+- Add new regional manager Alan Koontz
+- Change territory for John Reed
+
 ### 8/22/2022
 - Remove regional manager DP
 
