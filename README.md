@@ -4,6 +4,10 @@ ACS Store Website found at https://store.acsouth.com/
 
 ## Changelog
 
+### 11/8/2022 (Election Day)
+- Add new regional manager Ashley Carson
+- Update image sizes for Alan Koontz
+
 ### 9/21/2022
 - Add new regional manager Alan Koontz
 - Change territory for John Reed
