@@ -4,6 +4,9 @@ ACS Store Website found at https://store.acsouth.com/
 
 ## Changelog
 
+### 9/15/2023
+- Updated workrooms and emergency after hours locations/numbers.
+
 ### 7/10/2023
 - Update 2 emergency after hours phone numbers.
 
