@@ -4,6 +4,9 @@ ACS Store Website found at https://store.acsouth.com/
 
 ## Changelog
 
+### 1/9/2023
+- Revert to standard ACS logo
+
 ### 11/13/2023
 - Remove COVID video from homepage
 - Change workroom location
