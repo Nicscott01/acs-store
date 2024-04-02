@@ -4,6 +4,9 @@ ACS Store Website found at https://store.acsouth.com/
 
 ## Changelog
 
+### 4/2/2024
+- Remove regional manager and re-label territories for others
+
 ### 1/9/2023
 - Revert to standard ACS logo
 
