@@ -4,6 +4,9 @@ ACS Store Website found at https://store.acsouth.com/
 
 ## Changelog
 
+### 5/1/2024
+- Remove Lakewood/Bayville info
+
 ### 4/2/2024
 - Remove regional manager and re-label territories for others
 
