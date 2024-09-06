@@ -3,6 +3,12 @@ ACS Store Website found at https://store.acsouth.com/
 
 
 ## Changelog
+### 9/6/2024
+- Update installation guides
+- Add Cameron Bass
+- Update homepage videos
+- Update awards on homepage
+
 ### 8/22/24
 - Change Emergency after hours for Baltimore
 
