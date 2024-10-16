@@ -3,6 +3,10 @@ ACS Store Website found at https://store.acsouth.com/
 
 
 ## Changelog
+### 10/16/22024
+- Add disaster relief video front and center
+- Move About ACS video down next to the other video
+
 ### 9/6/2024
 - Update installation guides
 - Add Cameron Bass
