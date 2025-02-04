@@ -3,7 +3,9 @@ ACS Store Website found at https://store.acsouth.com/
 
 
 ## Changelog
-### 10/16/22024
+### 2/4/2025
+- Remove cell numbers, change personel
+### 10/16/2024
 - Add disaster relief video front and center
 - Move About ACS video down next to the other video
 
