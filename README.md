@@ -3,6 +3,8 @@ ACS Store Website found at https://store.acsouth.com/
 
 
 ## Changelog
+### 7/18/2025
+- Add Shelley
 ### 2/4/2025
 - Remove cell numbers, change personel
 ### 10/16/2024
