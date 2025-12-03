@@ -3,6 +3,10 @@ ACS Store Website found at https://store.acsouth.com/
 
 
 ## Changelog
+### 12/3/2025
+- Update homepage video title
+### 11/26/2025
+- Updated homepage video
 ### 10/24/2025
 - Add Michael & Brenna & image of Shelley
 ### 7/18/2025
